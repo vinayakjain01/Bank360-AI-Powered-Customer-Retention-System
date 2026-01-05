@@ -79,6 +79,13 @@ A standard dashboard just shows numbers. **Bank360 acts on them.**
 
 
 ---
+## Repository structure 
+├── 📁 sql │ └── Bank360_SQL_queries.sql # Schema creation, cleaning, and analysis queries 
+├── 📁 notebooks │ ├── bank_churn_model.ipynb # Python ML model (Random Forest) & Evaluation │ └── Bank360_csv_download.ipynb # Data utility script0s
+├── 📁 dashboard │ ├── bank360_dashboard.pbix # Power BI Project File │ ├── bank360_dashboard.pdf # PDF Export of the Dashboard │ └── Bank360_Dashboard_Data.csv
+├── 📁 dashboard | ├── train.csv | └── test.csv
+# Final processed data used for visualization ├── 📄 Bank360 docs.pdf # Full Project Documentation & Walkthrough └── 📄 README.md # Project Overview
+
 
 ## 💻 How to Run This Project
 
