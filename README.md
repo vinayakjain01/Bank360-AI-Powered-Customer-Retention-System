@@ -98,7 +98,7 @@ A standard dashboard just shows numbers. **Bank360 acts on them.**
 ---
 
 ## 📬 Contact
-**[Vinayak jain]**
+**Vinayak jain**
 * **Role:** Data Analyst
-* **Email:** [vinayakjainn11@gmail.com]
-* **LinkedIn:** [https://www.linkedin.com/in/vinayak-jain-69801b328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+* **Email:** vinayakjainn11@gmail.com
+* **LinkedIn:** www.linkedin.com/in/vinayak-jain-69801b328
